@@ -37,8 +37,11 @@ input{
     outline: none;
 }
 
-.first-step,
+.final-step,
 .second-step{
     display: none;
 }
 
+#resultado{
+    font-size: 25px;
+}
